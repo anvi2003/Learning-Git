@@ -5,5 +5,5 @@ int main(){
     int s1,s2;
     cin>>s1>>s2;
     int sum=s2+s2;
-    cout<<sum;
+    cout<<"SUM:"<<sum;
 }
